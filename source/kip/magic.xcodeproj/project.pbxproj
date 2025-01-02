@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "kip" */;
+			buildConfigurationList = FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "magic" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "kip" */ = {
+		FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "magic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF9F630D2D269CAB00DE7337 /* Debug */,
