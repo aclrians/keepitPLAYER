@@ -30,9 +30,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FF9F62ED2D269CAA00DE7337 /* kip */ = {
+		FF9F62ED2D269CAA00DE7337 /* inner */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = kip;
+			path = inner;
 			sourceTree = "<group>";
 		};
 		FF9F62FE2D269CAB00DE7337 /* kipTests */ = {
@@ -75,7 +75,7 @@
 		FF9F62E22D269CAA00DE7337 = {
 			isa = PBXGroup;
 			children = (
-				FF9F62ED2D269CAA00DE7337 /* kip */,
+				FF9F62ED2D269CAA00DE7337 /* inner */,
 				FF9F62FE2D269CAB00DE7337 /* kipTests */,
 				FF9F63082D269CAB00DE7337 /* kipUITests */,
 				FF9F62EC2D269CAA00DE7337 /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FF9F62ED2D269CAA00DE7337 /* kip */,
+				FF9F62ED2D269CAA00DE7337 /* inner */,
 			);
 			name = kip;
 			packageProductDependencies = (
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "magic" */;
+			buildConfigurationList = FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "kip" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "magic" */ = {
+		FF9F62E62D269CAA00DE7337 /* Build configuration list for PBXProject "kip" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF9F630D2D269CAB00DE7337 /* Debug */,
