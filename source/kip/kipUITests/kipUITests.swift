@@ -1,13 +1,13 @@
 //
-//  keepitplayerUITests.swift
-//  keepitplayerUITests
+//  kipUITests.swift
+//  kipUITests
 //
 //  Created by Adrian  on 1/2/25.
 //
 
 import XCTest
 
-final class keepitplayerUITests: XCTestCase {
+final class kipUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

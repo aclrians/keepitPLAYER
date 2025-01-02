@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  keepitplayer
+//  kip
 //
 //  Created by Adrian  on 1/2/25.
 //

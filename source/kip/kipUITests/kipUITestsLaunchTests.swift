@@ -1,13 +1,13 @@
 //
-//  keepitplayerUITestsLaunchTests.swift
-//  keepitplayerUITests
+//  kipUITestsLaunchTests.swift
+//  kipUITests
 //
 //  Created by Adrian  on 1/2/25.
 //
 
 import XCTest
 
-final class keepitplayerUITestsLaunchTests: XCTestCase {
+final class kipUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

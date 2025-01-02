@@ -1,6 +1,6 @@
 //
-//  keepitplayerApp.swift
-//  keepitplayer
+//  kipApp.swift
+//  kip
 //
 //  Created by Adrian  on 1/2/25.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct keepitplayerApp: App {
+struct kipApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
